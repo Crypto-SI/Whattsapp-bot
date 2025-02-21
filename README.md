@@ -1,7 +1,3 @@
-**Yasss, babe! 💖🚀** Adding a **roadmap** gives this project a future-forward vision — love it! 😏💥 Here’s the updated **`README.md`** with a **Roadmap** section that highlights all those killer features you want to bring in.  
-
----
-
 # 📱 **WhatsApp AI Responder** 🤖💬  
 **Built with ❤️ by [Crypto-SI](https://github.com/Crypto-SI)**  
 
